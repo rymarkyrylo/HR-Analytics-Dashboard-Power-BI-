@@ -15,5 +15,5 @@ This Power BI dashboard provides a comprehensive analysis of employee data to he
 
 ---
 ## 📂 How to View
-1. Download the `HR-analisys-Rymar.pbix` file.
+1. Download the `HR-Analysis-PowerBI-Rymar.pbix` file.
 2. Open it using **Power BI Desktop**.
