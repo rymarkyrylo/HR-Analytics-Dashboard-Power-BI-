@@ -8,7 +8,6 @@ This Power BI dashboard provides a comprehensive analysis of employee data to he
 
 ## 💡 Key Insights & Business Impact
 *   **Attrition Analysis:** Identified a [X]% attrition rate, with the highest turnover in the [Sales/Tech] department.
-*   **Work-Life Balance:** Discovered a direct correlation between high overtime hours and employee turnover.
 
 ## 📸 Dashboard Preview
 > **Note:** Since GitHub cannot render .pbix files, please see the preview below.
